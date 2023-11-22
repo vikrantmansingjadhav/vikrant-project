@@ -1,0 +1,73 @@
+.container1{
+
+border: 3px solid black;
+background-color: black;
+
+}
+
+.container2{
+
+border: 3px solid black;
+
+}
+
+.box1{
+
+height: 50vh;
+width: 40vh;
+border: 3px solid black;
+
+
+}
+
+.box2{
+
+    height: 50vh;
+    width: 40vh;
+    border: 3px solid black;
+    
+    
+    }
+
+    .box3{
+
+        height: 50vh;
+        width: 40vh;
+        border: 3px solid black;
+        
+        
+        }
+
+        .box4{
+
+            height: 50vh;
+            width: 40vh;
+            border: 3px solid black;
+            
+            
+            }
+
+#home:hover{
+
+border: 2px solid white;
+
+}
+
+#about:hover{
+
+    border: 2px solid white;
+    
+    }
+
+    #contact:hover{
+
+        border: 2px solid white;
+        
+        }
+
+        .container2{
+
+            border: 3px solid black;
+            background-color: black;
+            
+            }
